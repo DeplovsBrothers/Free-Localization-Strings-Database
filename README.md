@@ -3,7 +3,7 @@ Database of localized strings from native speakers that every developer can use 
 
 ##Why?
 
-Today is not enought to just make an app, you have to localize it to distribute well. And this is very big problem for every small indie software makers. We have to use paid services to do that simple job. But we all around the Globe and we all native speakers for some language.
+Today is not enought to just make an app, you have to <a href="https://developer.apple.com/internationalization/">localize it to distribute well</a>. And this is very big problem for every small indie software makers. We have to use paid services to do that simple job. But we all around the Globe and we all native speakers for some language.
 
 ##How?
 
