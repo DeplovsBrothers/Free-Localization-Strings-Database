@@ -7,4 +7,4 @@ Today is not enought to just make an app, you have to <a href="https://developer
 
 ##How?
 
-We can't localize every string from every app, of course, but we can translate standard strings, like File, Edit, View, Window, Help, etc. And in the next time when you one, you can count on our database, take it and use it. For free and make most of your apps strings ready to speak on your customers language.
+We can't localize every string from every app, of course, but we can translate standard strings, like File, Edit, View, Window, Help, etc. And in the next time when you need one, you can count on this database, take it and use it. For free and make most of your apps strings ready to speak on your customers language.
